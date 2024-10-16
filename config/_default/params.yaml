@@ -37,10 +37,11 @@ header:
     logo: 
       text: "Sandra Polanía-Reyes"
 
-## Site footer
-#footer:
-#  copyright:
-#    notice: '© {year} Me. This work is licensed under {license}'
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Sandra Polanía-Reyes'
+    # Me. This work is licensed under {license}
 #    license:
 #      enable: true
 #      allow_derivatives: false
