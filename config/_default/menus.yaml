@@ -25,7 +25,7 @@ main:
   - name: Teaching
     url: /#teaching
     weight: 30
-  - name: Miscellaneus
+  - name: Miscellaneous
     url: ''
     weight: 60
     identifier: 'misc'
@@ -34,7 +34,7 @@ main:
     weight: 3
     parent: 'misc'
   - name: Motivation
-    url: \motiv
+    url: /#motiv
     weight: 4
     parent: 'misc'
     

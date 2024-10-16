@@ -25,7 +25,7 @@ role: Associate Professor of Economics
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Navarra
-    url: https://en.unav.edu/
+    url: https://en.unav.edu/web/school-of-economics-and-business
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,14 +52,10 @@ interests:
   - Social Psychology/Neuroscience
 
 education:
-  - area: PhD Economics 
+  courses:
+  - course: PhD in Economics
     institution: UCL
-    date_start: 2009-10-01
-    date_end: 2015-08-31
-  - area: PhD Economia Politica
-    institution: University of Siena
-    date_start: 2007-10-01
-    date_end: 2015-08-31
+    year: 2015
       
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
