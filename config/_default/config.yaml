@@ -40,13 +40,8 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
-
-
-
 build:
   writeStats: true
-
-
 footnotereturnlinkcontents: <sup>^</sup>
 imaging:
   resampleFilter: lanczos
