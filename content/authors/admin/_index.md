@@ -52,6 +52,7 @@ interests:
   - Social Psychology/Neuroscience
 
 education:
+  course:
   - course: PhD in Economics
     institution: UCL
     year: '2015'
