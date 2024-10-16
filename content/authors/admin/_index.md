@@ -172,4 +172,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a development economist working at the intersection of experimental economics and prosocial behavior. My research focuses on the design and evaluation of effective behavioral policy interventions in developing countries. I have conducted large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
