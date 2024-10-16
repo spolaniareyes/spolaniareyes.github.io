@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/0000-0001-6451-1254
 
 interests:
-  - Behavioral/Experimental/Development
+  - Behavioral/Experimental Econ
+  - Development Econ
   - Social Psychology/Neuroscience
-  - Reproducible research
 
 education:
   - area: PhD Economics 
