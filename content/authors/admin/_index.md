@@ -80,4 +80,4 @@ languages:
 
 I am a development economist working at the intersection of experimental economics and prosocial behavior. My research focuses on the design and evaluation of effective behavioral policy interventions in developing countries. I have conducted large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "tex/floswald.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="icon" >}} Download my {{< staticref "resume.pdf" "newtab" >}}CV{{< /staticref >}}.
