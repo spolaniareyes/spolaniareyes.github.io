@@ -21,8 +21,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Associate Prof of Economics at University of Navarra'
+    twitter: 'spolania'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -42,7 +42,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Sandra Polanía-Reyes"
 
 # Site footer
 footer:
