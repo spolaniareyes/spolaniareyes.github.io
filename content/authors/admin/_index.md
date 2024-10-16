@@ -7,11 +7,11 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Sandra
-last_name: Chien
+last_name: Polanía-Reyes
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,27 +20,27 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Associate Professor of Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Navarra
+    url: https://en.unav.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:spolania@unav.es'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/spolania
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/spolaniareyes/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/spolaniareyes
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sandra-polan%C3%ADa-reyes-6b506a15/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
