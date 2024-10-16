@@ -54,7 +54,7 @@ sections:
   - block: markdown
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
