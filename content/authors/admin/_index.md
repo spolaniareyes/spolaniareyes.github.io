@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Sandra Polania Reyes
+title: Sandra Polanía-Reyes
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
+first_name: Sandra
 last_name: Chien
 
 # Status emoji
