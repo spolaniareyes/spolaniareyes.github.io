@@ -10,7 +10,8 @@
 
 
 # SEO
-marketing:
+
+  marketing:
   seo:
     site_type: Person
     local_business_type: ''
