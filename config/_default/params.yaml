@@ -39,6 +39,7 @@ header:
 
 # Site footer
 footer:
+  block: minimal
   copyright:
     notice: '© {year} Sandra Polanía Reyes. This work is licensed under {license}'
     license:
