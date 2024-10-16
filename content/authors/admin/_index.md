@@ -56,21 +56,10 @@ education:
     institution: UCL
     date_start: 2009-10-01
     date_end: 2015-08-31
-    #summary: |
-    # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    #button:
-     # text: 'Read Thesis'
-      #url: 'https://example.com'
   - area: PhD Economia Politica
     institution: University of Siena
     date_start: 2007-10-01
     date_end: 2015-08-31
-    #summary: |
-  - #area: BSc Artificial Intelligence
-    #institution: Massachusetts Institute of Technology
-    #date_start: 2016-01-01
-    #date_end: 2020-12-31
-    #summary: |
       
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
