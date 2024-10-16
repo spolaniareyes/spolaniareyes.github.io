@@ -59,6 +59,7 @@ education:
     date_end: 2015-08-31
   - area: PhD Economia Politica
     institution: University of Siena
+    year: '2015'
     date_start: 2007-10-01
     date_end: 2015-08-31
       
@@ -76,7 +77,5 @@ languages:
     percent: 25
 
 ---
-
-## About Me
 
 I am a development economist working at the intersection of experimental economics and prosocial behavior. My research focuses on the design and evaluation of effective behavioral policy interventions in developing countries. I have conducted large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
