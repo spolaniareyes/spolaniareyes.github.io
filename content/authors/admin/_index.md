@@ -52,10 +52,15 @@ interests:
   - Social Psychology/Neuroscience
 
 education:
-  course:
-  - course: PhD in Economics
+  - area: PhD Economics 
     institution: UCL
     year: '2015'
+    date_start: 2009-10-01
+    date_end: 2015-08-31
+  - area: PhD Economia Politica
+    institution: University of Siena
+    date_start: 2007-10-01
+    date_end: 2015-08-31
       
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
