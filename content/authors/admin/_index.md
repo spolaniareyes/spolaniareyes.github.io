@@ -54,7 +54,7 @@ interests:
 education:
   - course: PhD in Economics
     institution: UCL
-    year: 2015
+    year: '2015'
       
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
