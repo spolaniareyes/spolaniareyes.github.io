@@ -4,9 +4,16 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+#appearance:
+ # mode: system
+  #color: emerald
+
 appearance:
-  mode: system
-  color: emerald
+  theme_day: 1950s
+  theme_night: 1950s
+  day_night: true
+  font: minimal
+  font_size: L
 
 # SEO
 marketing:
