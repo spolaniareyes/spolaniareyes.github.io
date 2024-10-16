@@ -39,8 +39,7 @@ header:
 
 # Site footer
 footer:
-  copyright:
-    notice: '© {year} Sandra Polanía-Reyes'
+  copyright: '© {year} Sandra Polanía-Reyes'
     # Me. This work is licensed under {license}
 #    license:
 #      enable: true
