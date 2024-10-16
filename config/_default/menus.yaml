@@ -7,21 +7,36 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  - name: News
-    url: /#news
-    weight: 13
-  - name: Experience
-    url: experience/
+  - name: Research
+    url: /#research
     weight: 20
   - name: Projects
-    url: projects/
-    weight: 30
+    url: /#projects
+    weight: 3
+    parent: 'Research'
+  - name: Publications
+    url: /#publications
+    weight: 1
+    parent: 'Research'
+  - name: Working Papers
+    url: /#publications_selected
+    weight: 2
+    parent: 'Research'
   - name: Teaching
-    url: teaching/
-    weight: 40
+    url: /#teaching
+    weight: 30
+  - name: Miscellaneus
+    url: ''
+    weight: 60
+    identifier: 'misc'
+  - name: Talks
+    url: /#talks
+    weight: 3
+    parent: 'misc'
+  - name: Motivation
+    url: \motiv
+    weight: 4
+    parent: 'misc'
+    
+    
+    
