@@ -5,9 +5,11 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: ''
-  font_size: ''
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
+
 
 # SEO
 marketing:

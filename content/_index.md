@@ -31,7 +31,8 @@ sections:
         url: uploads/Polania_CV.pdf
     design:
       css_class: light
-      padding: [0, 0, 0, 0]
+      spacing:
+        padding: ["0", "0", "0", "0"]
       background:
         color: ''
         image:
