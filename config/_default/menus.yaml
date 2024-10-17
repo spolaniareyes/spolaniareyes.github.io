@@ -22,15 +22,9 @@ main:
   - name: Talks
     url: /#talks
     weight: 40
-    parent: 'misc'
-  - name: Miscellaneous
-    url: ''
-    weight: 50
-    identifier: 'misc'
   - name: Motivation
     url: /#motiv
-    weight: 1
-    parent: 'misc'
+    weight: 50
     
     
     
