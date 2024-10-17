@@ -39,8 +39,8 @@ sections:
           filename: ''
           filters:
             brightness: 1.0
-          size: cover
-          position: center
+          size: ''
+          position: ''
           parallax: false
   - block: collection
     id: publications
