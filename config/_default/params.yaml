@@ -77,8 +77,8 @@ features:
     size: 
       options:
         - custom: 
-          width: '250'
-          height: '250'
+          width: 250
+          height: 250
     border:
       enabled: false
   comment:
