@@ -9,15 +9,11 @@ name_pronunciation: ''
 first_name: Sandra
 last_name: Polanía-Reyes
 
-# Status emoji
-status:
-  icon: 
-
 # Is this the primary user of the site?
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Role/position/tagline
 role: Associate Professor of Economics
@@ -46,11 +42,6 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6451-1254
 
-interests:
-  - Behavioral/Experimental Econ
-  - Development Econ
-  - Social Psychology/Neuroscience
-
 education:
   - area: PhD Economics 
     institution: UCL
@@ -62,6 +53,11 @@ education:
     year: '2015'
     date_start: 2007-10-01
     date_end: 2015-08-31
+
+interests:
+  - Behavioral/Experimental Econ
+  - Development Econ
+  - Social Psychology/Neuroscience
 ---
 I am a behavioral development economist with a focus on prosocial behavior and behavioral policy interventions. 
 
