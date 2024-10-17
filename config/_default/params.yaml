@@ -72,7 +72,7 @@ features:
   avatar:
     gravatar: false
     display:
-      enabled: true
+      enabled: false
       shape: circle
     size: 
       options:
