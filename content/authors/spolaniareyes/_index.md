@@ -62,23 +62,6 @@ education:
     year: '2015'
     date_start: 2007-10-01
     date_end: 2015-08-31
-      
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-
-languages:
-  - name: Spanish
-    percent: 100
-  - name: English
-    percent: 85
-  - name: Italian
-    percent: 50
-  - name: French
-    percent: 25
-
-# {{< icon name="icon" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
-
 I am a behavioral development economist with a focus on prosocial behavior and behavioral policy interventions. 
-
 I have conducted large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
