@@ -69,8 +69,11 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: square
-    size: large
+    shape: circle
+    size: 
+      custom: 
+        width: '250'
+        height: '250'
     border:
       enabled: false
   comment:
