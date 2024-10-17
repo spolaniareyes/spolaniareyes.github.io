@@ -71,11 +71,14 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    display:
+      enabled: true
+      shape: circle
     size: 
-      custom: 
-        width: '250'
-        height: '250'
+      options:
+        - custom: 
+          width: '250'
+          height: '250'
     border:
       enabled: false
   comment:
