@@ -32,7 +32,7 @@ sections:
     design:
       css_class: light
       spacing:
-        padding: ["0", "0", "0", "0"]
+        padding: [0px, 0px, 0px,0px]
       background:
         color: ''
         image:
