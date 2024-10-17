@@ -64,4 +64,5 @@ education:
     date_end: 2015-08-31
 ---
 I am a behavioral development economist with a focus on prosocial behavior and behavioral policy interventions. 
+
 I have conducted large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
