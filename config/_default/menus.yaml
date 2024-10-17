@@ -7,35 +7,29 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Research
-    url: /#research
+  - name: Publications
+    url: /#Publications
     weight: 20
+  - name: Working Papers
+    url: /#wp
+    weight: 30
   - name: Projects
     url: /#projects
-    weight: 3
-    parent: 'Research'
-  - name: Publications
-    url: /#publications
-    weight: 1
-    parent: 'Research'
-  - name: Working Papers
-    url: /#publications_selected
-    weight: 2
-    parent: 'Research'
+    weight: 40
   - name: Teaching
     url: /#teaching
     weight: 30
-  - name: Miscellaneous
-    url: ''
-    weight: 60
-    identifier: 'misc'
   - name: Talks
     url: /#talks
-    weight: 3
+    weight: 40
     parent: 'misc'
+  - name: Miscellaneous
+    url: ''
+    weight: 50
+    identifier: 'misc'
   - name: Motivation
     url: /#motiv
-    weight: 4
+    weight: 1
     parent: 'misc'
     
     
