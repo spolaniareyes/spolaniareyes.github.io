@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "3rem"
+  spacing: ''
 
 sections:
   - block: resume-biography-3
@@ -15,10 +15,15 @@ sections:
       right: 2px
       bottom: 2px
       left: 2px
+    padding:
+      top: 15px
+      bottom: 15px
+      left: 10px
+      right: 10px
     id: section1
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: spolaniareyes
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:

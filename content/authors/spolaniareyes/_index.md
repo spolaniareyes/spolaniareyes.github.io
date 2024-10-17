@@ -79,5 +79,6 @@ languages:
 # {{< icon name="icon" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
 
-I am a development economist working at the intersection of experimental economics and prosocial behavior. My research focuses on the design and evaluation of effective behavioral policy interventions in developing countries. I have conducted large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
+I am a behavioral development economist with a focus on prosocial behavior and behavioral policy interventions. 
 
+I have conducted large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
