@@ -6,8 +6,8 @@
 # Appearance
 appearance:
   mode: light
-  color: blue
-  font_size: L
+  color: ''
+  font_size: ''
 
 # SEO
 marketing:

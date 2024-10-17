@@ -10,6 +10,11 @@ design:
 
 sections:
   - block: resume-biography-3
+    margin:
+      top: 2px
+      right: 2px
+      bottom: 2px
+      left: 2px
     id: section1
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
