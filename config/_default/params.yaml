@@ -69,6 +69,7 @@ features:
   avatar:
     gravatar: false
     shape: square
+    size: large
     border:
       enabled: false
   comment:

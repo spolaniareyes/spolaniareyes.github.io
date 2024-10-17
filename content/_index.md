@@ -32,19 +32,18 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: collection
     id: publications
     content:
       title: 'Publications'
       subtitle: ''
-      text: 'Measuring perceptions of post conflict actors’ economic behavior: The case of Colombia. 2021. Peace and Conflict: Journal of Peace Psychology. With Santiago Alonso-Díaz, et al.
-        “Building social capital: Conditional cash transfers and cooperation”. 2015. With Orazio Attanasio and Luca Pellerano Journal of Economic Behavior and Organization. 118, October, 22–39.
-        “Economic incentives and social preferences: substitutes or complements?” 2012. With Sam Bowles. Journal of Economic Literature. 50, June, 368-425. 
-        “Building trust? Conditional cash transfer programs and social capital”. 2009. With Orazio Attanasio and Luca Pellerano. Fiscal Studies, 30, 139–177. 
-        “Social Capital and Household Income in Urban Colombia”. 2005. Revista Desarrollo y Sociedad. University of Los Andes. 56. September, 221-284.' 
+      text: '' 
+    folders:
+      - publication
     design:
       columns: '1'
       view: citation
+      padding: [0, 0, 0, 0]
   - block: markdown
     id: workpapers
     content:
@@ -69,7 +68,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
