@@ -15,8 +15,6 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-![Sandra Polanía-Reyes](spolaniareyes/avatar.JPG){:style="border-radius: 70%; width: 270px; height: 270px;"}
-
 # Role/position/tagline
 role: Associate Professor of Economics
 
