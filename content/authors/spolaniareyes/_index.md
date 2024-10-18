@@ -44,8 +44,7 @@ profiles:
     url: https://scholar.google.com/citations?user=awBKQFEAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6451-1254
-  - icon: cv
-    icon_pack: ai
+  - icon: academicons/cv
     url: uploads/Polania_CV.pdf
 
 education:
@@ -64,10 +63,10 @@ interests:
   - Behavioral/Experimental Econ
   - Development Econ
   - Social Psychology/Neuroscience
+
+  # did not work. <img src=spolaniareyes/avatar.JPG alt="Sandra Polanía-Reyes" style=border-radius:70%;width:270px;height:270px>                                                          
 ---
 <!-- The image tag with custom styling should use HTML -->
-
-<img src=spolaniareyes/avatar.JPG alt="Sandra Polanía-Reyes" style=border-radius:70%;width:270px;height:270px>                                                          
 
 I am a behavioral development economist with a focus on prosocial behavior and behavioral policy interventions. 
 
