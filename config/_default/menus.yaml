@@ -5,10 +5,10 @@
 
 main:
   - name: Bio
-    url: /
+    url: /#about
     weight: 10
   - name: Publications
-    url: /#Publications
+    url: /#publications
     weight: 20
   - name: Working Papers
     url: /#wp

@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '1rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      username: admin
+      username: spolaniareyes
     design:
       # Hugo date format
       date_format: 'January 2006'
@@ -21,15 +21,15 @@ sections:
   - block: resume-skills
     content:
       title: Skills & Hobbies
-      username: admin
+      username: spolaniareyes
     design:
       show_skill_percentage: false
   - block: resume-awards
     content:
       title: Awards
-      username: admin
+      username: spolaniareyes
   - block: resume-languages
     content:
       title: Languages
-      username: admin
+      username: spolaniareyes
 ---
