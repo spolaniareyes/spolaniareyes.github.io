@@ -15,6 +15,7 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+
 # Role/position/tagline
 role: Associate Professor of Economics
 
@@ -22,6 +23,9 @@ role: Associate Professor of Economics
 organizations:
   - name: University of Navarra
     url: https://en.unav.edu/web/school-of-economics-and-business
+
+# Short bio (displayed in user profile at end of posts)
+bio: I'm interested in Behavioral/Experimental/Development and Social Psychology 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -41,6 +45,9 @@ profiles:
     url: https://scholar.google.com/citations?user=awBKQFEAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6451-1254
+  - icon: cv
+    icon_pack: ai
+    link: uploads/Polania_CV.pdf
 
 education:
   - area: PhD Economics 
@@ -62,3 +69,5 @@ interests:
 I am a behavioral development economist with a focus on prosocial behavior and behavioral policy interventions. 
 
 I have conducted large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Polania_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
