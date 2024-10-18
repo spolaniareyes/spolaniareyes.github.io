@@ -15,6 +15,7 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+![Sandra Polanía-Reyes](spolaniareyes/avatar.JPG){:style="border-radius: 70%; width: 270px; height: 270px;"}
 
 # Role/position/tagline
 role: Associate Professor of Economics
@@ -47,7 +48,7 @@ profiles:
     url: https://orcid.org/0000-0001-6451-1254
   - icon: cv
     icon_pack: ai
-    link: uploads/Polania_CV.pdf
+    url: uploads/Polania_CV.pdf
 
 education:
   - area: PhD Economics 
@@ -66,8 +67,9 @@ interests:
   - Development Econ
   - Social Psychology/Neuroscience
 ---
+<!-- The image tag with custom styling should use HTML -->
+<img src="spolaniareyes/avatar.JPG" alt="Sandra Polanía-Reyes" style="border-radius: 70%; width: 270px; height: 270px;" />
+
 I am a behavioral development economist with a focus on prosocial behavior and behavioral policy interventions. 
 
 I have conducted large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Polania_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
