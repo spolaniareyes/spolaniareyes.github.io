@@ -66,8 +66,8 @@ interests:
   - Social Psychology/Neuroscience
 ---
 <!-- The image tag with custom styling should use HTML -->
-   <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src=/author/sandra-polania-reyes/avatar_hu9160679527186462156.JPG alt="Sandra Polanía-Reyes" width=270 height=270>
-                                                          
+
+<img src=spolaniareyes/avatar.JPG alt="Sandra Polanía-Reyes" style=border-radius:70%;width:270px;height:270px>                                                          
 
 I am a behavioral development economist with a focus on prosocial behavior and behavioral policy interventions. 
 
