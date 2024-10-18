@@ -1,11 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Trust
+date: 2020-01-01
+external_link: https://github.com/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - IDB
+  - PUJ
+  - UNav
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
