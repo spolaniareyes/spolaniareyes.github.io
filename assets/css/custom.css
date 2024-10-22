@@ -16,7 +16,11 @@
   text-align: center; /* Centers the title */
   font-size: 20px; /* Adjusts the font size */
 }
-
+.network-icon a {
+  color: #3498db; /* Change icon color */
+  font-size: 1.5rem; /* Increase the size of social media icons */
+  margin: 0 10px; /* Add spacing between icons */
+}
 
 .reveal section h1,
 .reveal section h2,
