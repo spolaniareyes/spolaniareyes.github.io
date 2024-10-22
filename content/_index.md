@@ -23,6 +23,21 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
+  - block: stats
+    content:
+      items:
+        - statistic: "9"
+          description: |
+            Publications  
+        - statistic: "8"
+          description: |
+            Manuscripts under submission 
+        - statistic: "1,600+"
+          description: |
+            Citations
+        - statistic: "11"
+          description: |
+            h-index
   - block: collection
     id: publications
     content:
