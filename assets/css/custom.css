@@ -1,8 +1,8 @@
 
 .avatar {
   object-fit: cover; /* Ensures the image covers the container without stretching */
-  width: 250px !important;
-  height: 250px !important;
+  width: 270px !important;
+  height: 270px !important;
   border-radius: 50%;
 }
 
@@ -12,9 +12,9 @@
 }
 
 .portrait-title {
-  margin-top: 20px; /* Adds space above the title */
+  margin-top: 30px; /* Adds space above the title */
   text-align: center; /* Centers the title */
-  font-size: 24px; /* Adjusts the font size */
+  font-size: 20px; /* Adjusts the font size */
 }
 
 
