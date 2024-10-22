@@ -29,24 +29,20 @@ sections:
       button:
         text: Download CV
         url: uploads/Polania_CV.pdf
-    design:
-      banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: images.jpg
-        css_class: light
-        spacing:
-          padding: [0, 0, 0, 0]
-          margin: [0, 0, 0, 0]
+    design:    
       background:
         color: ''
         image:
           # Add your image background to `assets/media/`.
-          filename: ''
+          filename: 'images.jpg'
           filters:
             brightness: 1.0
           size: ''
           position: ''
           parallax: false
+          spacing:
+            padding: [0, 0, 0, 0]
+            margin: [0, 0, 0, 0]
   - block: collection
     id: publications
     content:
