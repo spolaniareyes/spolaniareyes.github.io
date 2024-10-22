@@ -68,6 +68,8 @@ interests:
 ---
 <!-- The image tag with custom styling should use HTML -->
 
-I am a behavioral development economist with a focus on prosocial behavior and behavioral policy interventions. 
+I am an Associate Professor of Economics at University of Navarra in Spain. My work is in the fields of Behavioral, Development and Experimental economics with a focus on prosocial behavior and behavioral policy interventions. 
 
-I have conducted large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
+I am an Associate Editor of Frontiers in Behavioral Economics - Culture and Ethics and part of the <a href="https://spolaniareyes.github.io/">LACEA BRAIN</a> (Behavioral Insights Network) Academic committee since its launch in 2018.
+
+I am passionate about how to teach, motivate and multiply pro sociality. I am promoter of the use of mixed methods and reproducible, inter disciplinary research. I have 20 years, conducting large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
