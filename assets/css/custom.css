@@ -1,8 +1,8 @@
 
 .avatar {
   object-fit: cover; /* Ensures the image covers the container without stretching */
-  width: 250px;
-  height: 250px;
+  width: 250px !important;
+  height: 250px !important;
   border-radius: 50%;
 }
 
