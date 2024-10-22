@@ -24,7 +24,7 @@
   font-size: 20px; /* Adjusts the font size */
   margin-bottom: 10px; 
 }
-.network-icon a i {
+.network-icon a {
   margin-top: 5px;
   color: #3498db; /* Change icon color */
   font-size: 5rem; /* Increase the size of social media icons */
