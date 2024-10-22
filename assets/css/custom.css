@@ -20,9 +20,16 @@
   margin-bottom: 10px; 
 }
 .network-icon a {
+  margin-top: 5px;
   color: #3498db; /* Change icon color */
-  font-size: 3rem; /* Increase the size of social media icons */
+  font-size: 4rem; /* Increase the size of social media icons */
   margin: 0 10px; /* Add spacing between icons */
+}
+
+.stats-wrapper {
+  display: flex;
+  flex-wrap: wrap; /* Allows items to wrap if there's not enough space */
+  justify-content: space-between; /* Distributes the items evenly */
 }
 
 .stat-label {
