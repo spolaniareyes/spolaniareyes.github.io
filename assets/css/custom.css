@@ -1,8 +1,8 @@
 
 .avatar {
   object-fit: cover; /* Ensures the image covers the container without stretching */
-  width: 270px !important;
-  height: 270px !important;
+  width: 4900px !important;
+  height: 4900px !important;
   border-radius: 50%;
 }
 
@@ -11,7 +11,7 @@
   padding-bottom: 5px;
 }
 .avatar-wrapper {
-  display: none;
+  display: flex;
   margin-top: 10px; /* reduces space between the and */
   margin-bottom: 20px; /* Adds space between the avatar and title */
   justify-content: center; 
@@ -50,6 +50,15 @@
 .stat-label {
   font-size: 1rem; /* Adjust this value to increase or decrease font size */
   font-weight: 300;  /* Optional: Makes the label bold */
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 10px; /* Reduces space between paragraphs */
+}
+
+h1, h2, h3 {
+  margin-bottom: 5px; /* Reduces space below headings */
 }
 
 .reveal section h1,
