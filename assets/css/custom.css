@@ -25,6 +25,11 @@
   margin: 0 10px; /* Add spacing between icons */
 }
 
+.stat-label {
+  font-size: 1rem; /* Adjust this value to increase or decrease font size */
+  font-weight: 300;  /* Optional: Makes the label bold */
+}
+
 .reveal section h1,
 .reveal section h2,
 .reveal section h3 {
