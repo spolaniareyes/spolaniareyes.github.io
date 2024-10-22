@@ -1,3 +1,11 @@
+
+.avatar {
+  object-fit: cover; /* Ensures the image covers the container without stretching */
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
 .reveal section h1,
 .reveal section h2,
 .reveal section h3 {

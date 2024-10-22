@@ -21,7 +21,8 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-
+params:
+  customCSS: ["css/custom.css"]
 enableGitInfo: false
 summaryLength: 30
 pagination:
