@@ -20,6 +20,8 @@ sections:
         text: Download CV
         url: uploads/Polania_CV.pdf
     design:    
+      banner: 
+        filename: 'avatar.jpg'
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]

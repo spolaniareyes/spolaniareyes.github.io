@@ -69,11 +69,11 @@ features:
     url: 'https://github.com/spolaniareyes/spolaniareyes.github.io'
     content_dir: content
     branch: main
-  avatar:
-    gravatar: false
-    display:
-      enabled: true
-      shape: circle
+  #avatar:
+   # gravatar: false
+    #display:
+     # enabled: true
+      #shape: circle
   comment:
     provider: ''
     disqus:

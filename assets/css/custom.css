@@ -8,11 +8,16 @@
 
 .avatar-wrapper {
   display: flex;
-  margin-top: 10px; /* reduces space between the avatar and */
+  margin-top: 10px; /* reduces space between the and */
   margin-bottom: 20px; /* Adds space between the avatar and title */
   justify-content: center; 
 }
 
+.custom-image {
+  width: 250px; /* Adjust the size */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 10px; /* Optional: Add rounded corners */
+}
 .portrait-title {
   margin-top: 35px; /* Adds space above the title */
   text-align: center; /* Centers the title */
