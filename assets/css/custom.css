@@ -6,6 +6,10 @@
   border-radius: 50%;
 }
 
+.section{
+  margin-bottom: 10px; /* Adjust the value to reduce vertical spacing */
+  padding-bottom: 10px;
+}
 .avatar-wrapper {
   display: none;
   margin-top: 10px; /* reduces space between the and */
