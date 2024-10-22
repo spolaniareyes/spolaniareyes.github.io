@@ -32,7 +32,7 @@ sections:
     design:
     banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: images.jpg
+      filename: images.jpg
       css_class: light
       spacing:
         padding: [0, 0, 0, 0]
