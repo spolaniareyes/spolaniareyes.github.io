@@ -22,7 +22,7 @@ sections:
         url: uploads/Polania_CV.pdf
     design:    
       banner: 
-        filename: 'avatar.jpg'
+        filename: 's.jpg'
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
