@@ -29,6 +29,7 @@ sections:
         - statistic: "9"
           description: |
             Publications  
+          style: "font-size: 10px; font-weight: bold; color: #4CAF50;"
         - statistic: "8"
           description: |
             Manuscripts  
