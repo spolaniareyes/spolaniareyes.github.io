@@ -6,6 +6,18 @@
   border-radius: 50%;
 }
 
+.avatar-wrapper {
+  margin-top: 10px; /* reduces space between the avatar and */
+  margin-bottom: 20px; /* Adds space between the avatar and title */
+}
+
+.portrait-title {
+  margin-top: 20px; /* Adds space above the title */
+  text-align: center; /* Centers the title */
+  font-size: 24px; /* Adjusts the font size */
+}
+
+
 .reveal section h1,
 .reveal section h2,
 .reveal section h3 {
