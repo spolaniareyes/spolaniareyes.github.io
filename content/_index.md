@@ -15,15 +15,13 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: spolaniareyes
       avatar: true
-      
+
       #text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/Polania_CV.pdf
     design:
-      banner:
-        filename: 's.jpg'
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]

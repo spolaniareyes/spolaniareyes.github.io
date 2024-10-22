@@ -1,26 +1,29 @@
-
+.biography-wrapper {
+  margin-top: 5px;  /* Reduces the space above the biography section */
+  margin-bottom: 5px; /* Reduces the space below the biography section */
+}
 .avatar {
   object-fit: cover; /* Ensures the image covers the container without stretching */
   width: 4900px !important;
   height: 4900px !important;
   border-radius: 50%;
 }
-
 .section{
   margin-bottom: 5px; /* Adjust the value to reduce vertical spacing */
   padding-bottom: 5px;
 }
 .avatar-wrapper {
   display: flex;
-  margin-top: 10px; /* reduces space between the and */
-  margin-bottom: 20px; /* Adds space between the avatar and title */
+  margin-top: 5px; /* reduces space between the and */
+  margin-bottom: 10px; /* Adds space between the avatar and title */
   justify-content: center; 
 }
 
 .image-wrapper {
   text-align: center; /* Centers the image */
-  margin-bottom: 10px; /* Adds space between the image and the title */
+  margin-bottom: 5px; /* Adds space between the image and the title */
   border-radius: 10px;
+  margin-top: 5px;
 }
 
 .custom-image {
@@ -32,7 +35,7 @@
   margin-top: 35px; /* Adds space above the title */
   text-align: center; /* Centers the title */
   font-size: 20px; /* Adjusts the font size */
-  margin-bottom: 10px; 
+  margin-bottom: 5px; 
 }
 .network-icon a {
   margin-top: 5px;
