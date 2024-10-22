@@ -64,9 +64,10 @@ interests:
   - Development Econ
   - Social Psychology/Neuroscience
 
-  # did not work. <img src=spolaniareyes/avatar.JPG alt="Sandra Polanía-Reyes" style=border-radius:70%;width:270px;height:270px>                                                          
+  # did not work.                                                        
 ---
 <!-- The image tag with custom styling should use HTML -->
+<img src=spolaniareyes/s.JPG alt="Sandra Polanía-Reyes" style=border-radius:10%;width:270px;height:270px>   
 
 I am an Associate Professor of Economics at University of Navarra in Spain. My work is in the fields of Behavioral, Development and Experimental Economics, with a focus on prosocial behavior and behavioral policy interventions. 
 

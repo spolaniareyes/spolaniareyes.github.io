@@ -7,8 +7,8 @@
 }
 
 .section{
-  margin-bottom: 10px; /* Adjust the value to reduce vertical spacing */
-  padding-bottom: 10px;
+  margin-bottom: 5px; /* Adjust the value to reduce vertical spacing */
+  padding-bottom: 5px;
 }
 .avatar-wrapper {
   display: none;
