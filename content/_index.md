@@ -20,12 +20,10 @@ sections:
       button:
         text: Download CV
         url: uploads/Polania_CV.pdf
-    design:    
-      banner: 
-        filename: 's.jpg'
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+      image: "images/s.jpg"
+    spacing:
+      padding: [0, 0, 0, 0]
+      margin: [0, 0, 0, 0]
   - block: stats
     content:
       items:

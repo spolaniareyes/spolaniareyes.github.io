@@ -17,6 +17,12 @@
   justify-content: center; 
 }
 
+.image-wrapper {
+  text-align: center; /* Centers the image */
+  margin-bottom: 10px; /* Adds space between the image and the title */
+  border-radius: 10px;
+}
+
 .custom-image {
   width: 250px; /* Adjust the size */
   height: auto; /* Maintain aspect ratio */
