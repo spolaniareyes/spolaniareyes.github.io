@@ -1,6 +1,6 @@
 .biography-wrapper {
-  margin-top: 5px;  /* Reduces the space above the biography section */
-  margin-bottom: 5px; /* Reduces the space below the biography section */
+  margin-top: 1px;  /* Reduces the space above the biography section */
+  margin-bottom: 1px; /* Reduces the space below the biography section */
 }
 .avatar {
   object-fit: cover; /* Ensures the image covers the container without stretching */
@@ -9,8 +9,8 @@
   border-radius: 50%;
 }
 .section{
-  margin-bottom: 5px; /* Adjust the value to reduce vertical spacing */
-  padding-bottom: 5px;
+  margin-bottom: 1px; /* Adjust the value to reduce vertical spacing */
+  padding-bottom: 1px;
 }
 .avatar-wrapper {
   display: flex;
@@ -18,30 +18,27 @@
   margin-bottom: 10px; /* Adds space between the avatar and title */
   justify-content: center; 
 }
-
 .image-wrapper {
   text-align: center; /* Centers the image */
   margin-bottom: 5px; /* Adds space between the image and the title */
   border-radius: 10px;
   margin-top: 5px;
 }
-
 .custom-image {
   width: 250px; /* Adjust the size */
   height: auto; /* Maintain aspect ratio */
   border-radius: 10px; /* Optional: Add rounded corners */
 }
 .portrait-title {
-  margin-top: 35px; /* Adds space above the title */
+  margin-top: 38px; /* Adds space above the title */
   text-align: center; /* Centers the title */
   font-size: 20px; /* Adjusts the font size */
-  margin-bottom: 5px; 
+  margin-bottom: 1px; 
 }
 .network-icon a {
-  margin-top: 5px;
+  margin-top: 1px;
   color: #3498db; /* Change icon color */
-  font-size: 2.5rem; /* Increase the size of social media icons */
-  margin: 0 10px; /* Add spacing between icons */
+  font-size: 3em; /* Increase the size of social media icons */
 }
 
 .stats-wrapper {
@@ -51,13 +48,13 @@
 }
 
 .stat-label {
-  font-size: 1rem; /* Adjust this value to increase or decrease font size */
+  font-size: 1.5em; /* Adjust this value to increase or decrease font size */
   font-weight: 300;  /* Optional: Makes the label bold */
 }
 
 p {
-  margin-top: 10px;
-  margin-bottom: 10px; /* Reduces space between paragraphs */
+  margin-top: 0px;
+  margin-bottom: 0px; /* Reduces space between paragraphs */
 }
 
 h1, h2, h3 {
