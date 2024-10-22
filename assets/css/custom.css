@@ -7,18 +7,21 @@
 }
 
 .avatar-wrapper {
+  display: flex;
   margin-top: 10px; /* reduces space between the avatar and */
   margin-bottom: 20px; /* Adds space between the avatar and title */
+  justify-content: center; 
 }
 
 .portrait-title {
-  margin-top: 30px; /* Adds space above the title */
+  margin-top: 35px; /* Adds space above the title */
   text-align: center; /* Centers the title */
   font-size: 20px; /* Adjusts the font size */
+  margin-bottom: 10px; 
 }
 .network-icon a {
   color: #3498db; /* Change icon color */
-  font-size: 1.5rem; /* Increase the size of social media icons */
+  font-size: 3rem; /* Increase the size of social media icons */
   margin: 0 10px; /* Add spacing between icons */
 }
 
