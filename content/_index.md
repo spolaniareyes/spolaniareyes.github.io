@@ -30,9 +30,13 @@ sections:
         text: Download CV
         url: uploads/Polania_CV.pdf
     design:
+    banner:
+        # Upload your cover image to the `assets/media/` folder and reference it here
+        filename: images.jpg
       css_class: light
       spacing:
-        padding: [0px, 0px, 0px,0px]
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
       background:
         color: ''
         image:
@@ -43,6 +47,27 @@ sections:
           size: ''
           position: ''
           parallax: false
+  - block: stats
+    content:
+      items:
+        - statistic: "9"
+          description: |
+            Publications  
+        - statistic: "8"
+          description: |
+            Manuscripts under submission 
+        - statistic: "1,600+"
+          description: |
+            Citations
+        - statistic: "11"
+          description: |
+            h-index
+    design:
+      # Section background color (CSS class)
+      css_class: light
+      # Reduce spacing
+      spacing:
+        padding: ["2rem", 0, "2rem", 0]        
   - block: collection
     id: publications
     content:
