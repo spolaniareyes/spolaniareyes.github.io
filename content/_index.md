@@ -31,13 +31,19 @@ sections:
             Publications  
         - statistic: "8"
           description: |
-            Manuscripts under submission 
+            Manuscripts  
         - statistic: "1,600+"
           description: |
             Citations
         - statistic: "11"
           description: |
             h-index
+    design:
+      columns: 4
+      align: left    
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
   - block: collection
     id: publications
     content:
