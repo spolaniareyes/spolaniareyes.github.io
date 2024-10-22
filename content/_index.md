@@ -6,20 +6,10 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: ''
+  spacing: '1rem'
 
 sections:
   - block: resume-biography-3
-    margin:
-      top: 0px
-      right: 0px
-      bottom: 0px
-      left: 0px
-    padding:
-      top: 0px
-      bottom: 0px
-      left: 0px
-      right: 0px
     id: section1
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -30,19 +20,9 @@ sections:
         text: Download CV
         url: uploads/Polania_CV.pdf
     design:    
-      background:
-        color: ''
-        image:
-          # Add your image background to `assets/media/`.
-          filename: 'images.jpg'
-          filters:
-            brightness: 1.0
-          size: ''
-          position: ''
-          parallax: false
-          spacing:
-            padding: [0, 0, 0, 0]
-            margin: [0, 0, 0, 0]
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
   - block: collection
     id: publications
     content:
@@ -52,7 +32,7 @@ sections:
     folders:
       - publication
     design:
-      columns: '1'
+      columns: '2'
       view: citation
       padding: [0, 0, 0, 0]
   - block: markdown
@@ -65,7 +45,7 @@ sections:
         featured_only: true
     design:
       view: citation
-      columns: 1
+      columns: 2
   - block: markdown
     id: talks
     content:
