@@ -15,7 +15,7 @@ date: '2022-02-01'
 publishDate: '2024-10-23T12:32:28.841893Z'
 publication_types:
 - article-journal
-publication: '*Peace and Conflict - Journal of Peace Psychology*'
+publication: 'Peace and Conflict - Journal of Peace Psychology'
 doi: 10.1037/pac0000543
 links:
 - name: URL
