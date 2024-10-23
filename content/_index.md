@@ -45,19 +45,19 @@ sections:
   - block: collection
     id: publications
     content:
-      title: 'Publications'
+      title: Publications
       subtitle: ''
       text: '' 
     folders:
       - publication
     design:
-      columns: '2'
+      columns: 2
       view: citation
       padding: [0, 0, 0, 0]
   - block: collection
     id: wp
     content:
-      title: 'Working papers'
+      title: Working papers
       filters:
         folders:
           - publication
@@ -69,10 +69,14 @@ sections:
     id: talks
     content:
       title: 'Talks'
-      filters:
-        folders:
-          - event
+      subtitle: ''
+      text: |-
+        See my CV.
+     # filters:
+      #  folders:
+       #   - event
     design:
-      view: list
+      view: compact
       columns: 2
+      padding: [0, 0, 0, 0]
 ---
