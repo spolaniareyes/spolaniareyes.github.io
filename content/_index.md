@@ -46,21 +46,37 @@ sections:
     id: publications
     content:
       title: Publications
-      subtitle: ''
-      text: '' 
-    folders:
-      - publication
+      #subtitle:
+      #text: ''
+    filters:
+      folders:
+        - publication
+      exclude featured: false    
     design:
       columns: 2
       view: citation
       padding: [0, 0, 0, 0]
   - block: collection
+    id: chapter
+    content:
+      title: Book Chapters
+      #subtitle:''
+      #text: ''
+    filters:
+      folders:
+        - chapter
+      exclude featured: false    
+    design:
+      columns: 2
+      view: article-grid
+      padding: [0, 0, 0, 0]
+  - block: collection
     id: wp
     content:
-      title: Working papers
+      title: Working Papers
       filters:
         folders:
-          - publication
+          - wp
     design:
       view: citation
       columns: 2
