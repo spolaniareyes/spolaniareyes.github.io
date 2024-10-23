@@ -54,25 +54,25 @@ sections:
       columns: '2'
       view: citation
       padding: [0, 0, 0, 0]
-  - block: markdown
+  - block: collection
     id: wp
     content:
-      title: Working papers
+      title: 'Working papers'
       filters:
         folders:
           - publication
-        featured_only: true
     design:
       view: citation
       columns: 2
+      padding: [0, 0, 0, 0]
   - block: markdown
     id: talks
     content:
-      title: Talks
+      title: 'Talks'
       filters:
         folders:
           - event
     design:
-      view: article-grid
-      columns: 1
+      view: list
+      columns: 2
 ---
