@@ -15,4 +15,9 @@ doi: 10.1596/978-0-8213-7835-9
 links:
 - name: URL
   url: http://hdl.handle.net/10986/2694
+
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---

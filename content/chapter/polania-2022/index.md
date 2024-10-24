@@ -13,4 +13,9 @@ links:
 - name: URL
   url: 
     https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003094272-3/church-colombia-extractives-pastoral-accompaniment-using-eco-theology-peace-1-sandra-polan%C3%ADa-reyes-h%C3%A9ctor-fabio-henao
+
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---

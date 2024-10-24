@@ -15,4 +15,9 @@ doi: http://dx.doi.org/10.18235/0012517
 links:
 - name: URL
   url: https://publications.iadb.org/en/outsiders-changing-patterns-exclusion-latin-america-and-caribbean-economic-and-social-progress
+
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---
