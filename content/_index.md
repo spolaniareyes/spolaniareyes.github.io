@@ -37,18 +37,12 @@ sections:
           description: |
             h-index
     design:
-      background:
-    # Choose a color such as from https://html-color-codes.info
-        color: 'LightSkyBlue'
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-      text_color_light: true
       columns: 4
       align: left    
       spacing:
-      spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
-        margin: ['20px', '0', '20px', '0']
+        padding: ['0', '0', '0', '0']
+        margin: ['0', '0', '0', '0']
   - block: collection
     id: publications
     content:
@@ -61,8 +55,16 @@ sections:
         - publication
       exclude featured: false    
     design:
+      background:
+    # Choose a color such as from https://html-color-codes.info
+        color: 'Azure'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: true
       view: citation
-      padding: [0, 0, 0, 0]
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '0', '0', '0']
+        margin: ['0', '0', '0', '0']
   - block: collection
     id: chapter
     content:
@@ -94,9 +96,9 @@ sections:
         padding: ['20px', '0', '20px', '0']
       background:
     # Choose a color such as from https://html-color-codes.info
-      color: 'LightSkyBlue'
+        color: 'Azure'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-      text_color_light: true
+        text_color_light: true
 #  - block: markdown
  #   id: talks
   #  content:
