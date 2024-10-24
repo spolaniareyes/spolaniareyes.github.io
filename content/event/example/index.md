@@ -27,7 +27,7 @@ publishDate: '2017-01-01T00:00:00Z'
 authors:
   - spolaniareyes
 
-tags: []
+tags: [talk]
 
 # Is this a featured talk? (true/false)
 featured: false

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://spolaniareyes.github.io/sitemap.xml
