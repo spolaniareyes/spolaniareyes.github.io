@@ -8,6 +8,6 @@ tags:
   - UNav
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Designing an efficient media intervention to reduce empathy barriers and promote prosociality towards migrants.
 
 <!--more-->

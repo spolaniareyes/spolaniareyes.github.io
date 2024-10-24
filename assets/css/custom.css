@@ -60,9 +60,12 @@ p {
 h1, h2, h3 {
   margin-bottom: 5px; /* Reduces space below headings */
 }
-h1 { /* Or replace h1 with the correct tag */
-  font-size: 24px; /* Set the desired font size */
-}
+
+/*h1 { /* Or replace h1 with the correct tag */
+ /* font-size: 24px; /* Set the desired font size */
+/*}
+*/
+
 .content {
   margin-top: 5px; /* reduce the top margin if necessary */
 }
