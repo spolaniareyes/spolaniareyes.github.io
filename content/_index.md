@@ -53,6 +53,7 @@ sections:
     filters:
       folders:
         - publication
+      publication_type: ['2']
     design:
     #  background:
     # Choose a color such as from https://html-color-codes.info
