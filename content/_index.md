@@ -53,7 +53,7 @@ sections:
     filters:
       folders:
         - publication
-      exclude featured: false    
+      exclude featured: true   
     design:
       background:
     # Choose a color such as from https://html-color-codes.info
