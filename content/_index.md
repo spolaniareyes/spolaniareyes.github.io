@@ -45,8 +45,10 @@ sections:
       columns: 4
       align: left    
       spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
+        margin: ['20px', '0', '20px', '0']
   - block: collection
     id: publications
     content:
@@ -74,7 +76,9 @@ sections:
     design:
       columns: 3
       view: article-grid
-      padding: [0, 0, 0, 0]
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
   - block: collection
     id: wp
     content:
@@ -85,7 +89,9 @@ sections:
           - wp
     design:
       view: citation
-      padding: [0, 0, 0, 0]
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
       background:
     # Choose a color such as from https://html-color-codes.info
       color: 'LightSkyBlue'
