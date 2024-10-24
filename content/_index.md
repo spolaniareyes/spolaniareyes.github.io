@@ -37,8 +37,8 @@ sections:
           description: |
             h-index
     design:
-      columns: 4
-      align: left    
+      #columns: 4
+     # align: left    
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['0', '0', '0', '0']
