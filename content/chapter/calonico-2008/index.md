@@ -1,6 +1,7 @@
 ---
 title: 'To what extent do Latin Americans trust and cooperate? Field experiments on social exclusion in six Latin American Countries'
-type: "chapter"
+type: 'chapter'
+menu: 'chapter'
 authors:
 - Sandra Polania-Reyes
 - Alberto Chong
