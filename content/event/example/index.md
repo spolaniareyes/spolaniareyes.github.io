@@ -1,5 +1,8 @@
 ---
 title: Example Talk
+page_type: event  # Ensure this is set to "chapter" or a relevant type, not "publication"
+categories: ["talks"]
+tags: ["talks"]
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
