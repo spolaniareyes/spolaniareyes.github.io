@@ -37,6 +37,11 @@ sections:
           description: |
             h-index
     design:
+      background:
+    # Choose a color such as from https://html-color-codes.info
+        color: 'LightSkyBlue'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+      text_color_light: true
       columns: 4
       align: left    
       spacing:
@@ -48,12 +53,12 @@ sections:
       title: Publications
       #subtitle:
       #text: ''
+      count: 10
     filters:
       folders:
         - publication
       exclude featured: false    
     design:
-      columns: 2
       view: citation
       padding: [0, 0, 0, 0]
   - block: collection
@@ -67,32 +72,37 @@ sections:
         - chapter
       exclude featured: false    
     design:
-      columns: 2
+      columns: 3
       view: article-grid
       padding: [0, 0, 0, 0]
   - block: collection
     id: wp
     content:
       title: Working Papers
+      count: 10
       filters:
         folders:
           - wp
     design:
       view: citation
-      columns: 2
       padding: [0, 0, 0, 0]
-  - block: markdown
-    id: talks
-    content:
-      title: 'Talks'
-      subtitle: ''
-      text: |-
-        See my CV.
+      background:
+    # Choose a color such as from https://html-color-codes.info
+      color: 'LightSkyBlue'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+      text_color_light: true
+#  - block: markdown
+ #   id: talks
+  #  content:
+   #   title: 'Talks'
+    #  subtitle: ''
+     # text: |-
+      #  See my CV.
      # filters:
       #  folders:
        #   - event
-    design:
-      view: compact
-      columns: 2
-      padding: [0, 0, 0, 0]
+    #design:
+     # view: compact
+      #columns: 2
+      #padding: [0, 0, 0, 0]
 ---

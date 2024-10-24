@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: /#publications
     weight: 20
+  - name: Book Chapters
+    url: /#chapter
+    weight: 25    
   - name: Working Papers
     url: /#wp
     weight: 30
