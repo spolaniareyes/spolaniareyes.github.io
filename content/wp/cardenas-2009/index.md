@@ -1,6 +1,5 @@
 ---
-title: 'Helping the helpers : altruism as a rational choice of donors to a students
-  voluntary organization'
+title: 'Helping the helpers : altruism as a rational choice of donors to a students voluntary organization'
 authors:
 - Juan Camilo Cardenas Campo
 - Miguel Espinosa Farfan
