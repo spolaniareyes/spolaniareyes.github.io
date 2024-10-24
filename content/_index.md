@@ -55,11 +55,11 @@ sections:
         - publication
       exclude featured: true   
     design:
-      background:
+    #  background:
     # Choose a color such as from https://html-color-codes.info
-       color: 'Azure'
+    #   color: 'Azure'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-      text_color_light: true
+    #  text_color_light: true
       view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
@@ -94,11 +94,11 @@ sections:
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
-      background:
+   #   background:
     # Choose a color such as from https://html-color-codes.info
-        color: '#3498db' 
+    #    color: '#3498db' 
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-        text_color_light: true
+   #     text_color_light: true
 #  - block: markdown
  #   id: talks
   #  content:
