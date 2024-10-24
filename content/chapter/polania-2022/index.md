@@ -1,6 +1,6 @@
 ---
 title: 'The Church in Colombia and extractives: Pastoral accompaniment using an eco-theology of peace'
-type: "chapter"  # Ensure this is set to "chapter" or a relevant type, not "publication"
+page_type: chapter  # Ensure this is set to "chapter" or a relevant type, not "publication"
 categories: ["Chapters"]
 tags: ["Book"]
 
