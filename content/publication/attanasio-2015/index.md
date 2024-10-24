@@ -6,8 +6,7 @@ authors:
 - Luca Pellerano
 date: '2015-01-01'
 publishDate: '2024-10-23T12:32:28.833997Z'
-publication_types:
-- article-journal
+publication_types: ["2"]
 publication: '*Journal of Economic Behavior & Organization*'
 doi: https://doi.org/10.1016/j.jebo.2015.04.004
 abstract: Many conditional cash transfer (CCT) programs have important social components

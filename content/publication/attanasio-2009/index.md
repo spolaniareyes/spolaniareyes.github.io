@@ -6,8 +6,7 @@ authors:
 - Luca Pellerano
 date: '2009-01-01'
 publishDate: '2024-10-23T12:32:28.803262Z'
-publication_types:
-- article-journal
+publication_types: ["2"]
 publication: '*Fiscal Studies*'
 doi: https://doi.org/10.1111/j.1475-5890.2009.00092.x
 abstract: Abstract In this paper, we propose a measure of social capital based on
