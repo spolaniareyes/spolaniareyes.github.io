@@ -1,5 +1,5 @@
 ---
-title: Measuring Perceptions of Postconflict Actors' Economic Behavior: The Case of Colombia"
+title: "Measuring Perceptions of Postconflict Actors' Economic Behavior: The Case of Colombia"
 authors:
 - Santiago Alonso-Diaz
 - Nicolas Velasquez
