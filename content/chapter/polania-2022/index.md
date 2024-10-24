@@ -6,10 +6,8 @@ authors:
 - Hector Fabio Henao
 date: '2022-01-01'
 publishDate: '2024-10-23T12:32:28.862986Z'
-publication_types:
-- chapter
-publication: '*Catholic Peacebuilding and Mining. Integral Peace, Development and
-  Ecology*'
+publication_types: ["6"] #book chapter
+publication: 'Catholic Peacebuilding and Mining. Integral Peace, Development and Ecology'
 doi: 10.4324/9781003094272-3
 links:
 - name: URL

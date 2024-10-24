@@ -7,10 +7,9 @@ authors:
 - Natalia Candelo
 - Sebastian Calonico
 - Hugo Nopo
-date: '2008-01-01'
+date: '2008-10-01T00:00:00Z'
 publishDate: '2008-10-23T12:32:28.862986Z'
-publication_types:
-- chapter
+publication_types: ["6"] #book chapter
 publication: 'Outsiders?: The Changing Patterns of Exclusion in Latin America and the Caribbean. Economic and Social Progress in Latin America. 2008 Report'
 doi: http://dx.doi.org/10.18235/0012517
 links:

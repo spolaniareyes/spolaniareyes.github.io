@@ -9,8 +9,7 @@ authors:
 - Rajiv Sethi
 date: '2010-01-01'
 publishDate: '2024-10-23T12:32:28.869687Z'
-publication_types:
-- chapter
+publication_types: ["6"] #book chapter
 publication: '*Discrimination in Latin America : An Economic Perspective*'
 doi: 10.1596/978-0-8213-7835-9
 links:
