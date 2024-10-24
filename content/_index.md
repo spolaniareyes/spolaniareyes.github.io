@@ -57,9 +57,9 @@ sections:
     design:
       background:
     # Choose a color such as from https://html-color-codes.info
-   #     color: 'Azure'
+       color: 'Azure'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    #    text_color_light: true
+      text_color_light: true
       view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
