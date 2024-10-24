@@ -22,9 +22,9 @@ main:
   - name: Talks
     url: /#talks
     weight: 60
-  - name: Motivation
-    url: /#motiv
-    weight: 70
+  #- name: Motivation
+   # url: /#motiv
+    #weight: 70
     
     
     

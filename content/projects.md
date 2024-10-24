@@ -9,7 +9,7 @@ design:
 
 # Page sections
 sections:
-  - block: markdown
+  - block: collection
     content:
       title: Selected Projects
       text: ''
