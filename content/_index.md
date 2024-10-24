@@ -44,7 +44,7 @@ sections:
         padding: ['0', '0', '0', '0']
         margin: ['0', '0', '0', '0']
   - block: collection
-    id: publications
+    id: publication
     content:
       title: Publications
       #subtitle:
