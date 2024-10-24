@@ -1,6 +1,6 @@
 ---
 title: Book chapters
-type: landing
+#type: landing
 cms_exclude: true
 
 # View.

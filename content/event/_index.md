@@ -1,7 +1,7 @@
 ---
 title: Recent & Upcoming Talks
 cms_exclude: true
-url: talks
+#url: talks
 
 # View
 view: article-grid
