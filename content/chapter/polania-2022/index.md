@@ -1,6 +1,9 @@
 ---
-title: 'The Church in Colombia and extractives: Pastoral accompaniment using an eco-theology
-  of peace'
+title: 'The Church in Colombia and extractives: Pastoral accompaniment using an eco-theology of peace'
+type: "chapter"  # Ensure this is set to "chapter" or a relevant type, not "publication"
+categories: ["Chapters"]
+tags: ["Book"]
+
 authors:
 - Sandra Polania-Reyes
 - Hector Fabio Henao
