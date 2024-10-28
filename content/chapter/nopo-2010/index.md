@@ -1,8 +1,8 @@
 ---
 title: 'Discrimination in the provision of social services to the poor: a field experimental study'
 type: "chapter"  # Ensure this is set to "chapter" or a relevant type, not "publication"
-categories: ["Chapters"]
-tags: ["Book"]
+categories: [chapter]
+tags: [chapter]
 authors:
 - Juan-Camilo Cardenas
 - Natalia Candelo

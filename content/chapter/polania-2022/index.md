@@ -1,8 +1,8 @@
 ---
 title: 'The Church in Colombia and extractives: Pastoral accompaniment using an eco-theology of peace'
 page_type: chapter  # Ensure this is set to "chapter" or a relevant type, not "publication"
-categories: ["Chapters"]
-tags: ["Book"]
+categories: [chapter]
+tags: [chapter]
 
 authors:
 - Sandra Polania-Reyes
