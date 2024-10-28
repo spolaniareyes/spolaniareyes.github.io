@@ -57,10 +57,10 @@ markup:
   _merge: deep
   highlight:
     lineNos: false
-#related:
- # threshold: 80
-  #includeNewer: true
-  #toLower: true
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
   #indices:
    # - name: tags
     #  weight: 100

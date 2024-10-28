@@ -59,7 +59,7 @@ sections:
     # Choose a color such as from https://html-color-codes.info
         color: '#EFF8FB'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-        text_color_light: true
+       # text_color_light: false
         view: citation
         spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
@@ -97,9 +97,9 @@ sections:
         padding: ['20px', '0', '20px', '0']
       background:
     # Choose a color such as from https://html-color-codes.info
-        color: '#E0F8F7' 
+        color: '#EFF8FB' 
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-        text_color_light: true
+       # text_color_light: false
 #  - block: markdown
  #   id: talks
   #  content:
