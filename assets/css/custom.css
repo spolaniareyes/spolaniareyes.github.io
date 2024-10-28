@@ -38,7 +38,7 @@
 .network-icon a {
   margin-top: 1px;
   color: #3498db; /* Change icon color */
-  font-size: 32px !important; /* Increase the size of social media icons */
+  font-size: 40px !important; /* Increase the size of social media icons */
 }
 
 .stats-wrapper {
