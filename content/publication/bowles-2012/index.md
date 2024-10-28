@@ -1,5 +1,7 @@
 ---
 title: 'Economic Incentives and Social Preferences: Substitutes or Complements?'
+categories: [publication]
+tags: [publication]
 authors:
 - Samuel Bowles
 - Sandra Polania-Reyes

@@ -1,5 +1,7 @@
 ---
-title: Building Trust? Conditional Cash Transfer Programmes and Social Capital
+title: 'Building Trust? Conditional Cash Transfer Programmes and Social Capital'
+categories: [publication]
+tags: [publication]
 authors:
 - Orazio Attanasio
 - Sandra Polania-Reyes

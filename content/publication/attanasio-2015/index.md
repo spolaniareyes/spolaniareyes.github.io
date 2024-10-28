@@ -1,5 +1,7 @@
 ---
 title: 'Building social capital: Conditional cash transfers and cooperation'
+categories: [publication]
+tags: [publication]
 authors:
 - Orazio Attanasio
 - Sandra Polania-Reyes

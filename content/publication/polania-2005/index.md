@@ -1,5 +1,7 @@
 ---
-title: Social Capital and household income in urban Colombia
+title: 'Social Capital and household income in urban Colombia'
+categories: [publication]
+tags: [publication]
 authors:
 - Sandra Polania-Reyes
 date: '2005-01-01'
