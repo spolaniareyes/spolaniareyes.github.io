@@ -1,7 +1,7 @@
 ---
 title: 'Teaching'
-date: 2023-01-08
-type: landing
+#date: 2023-01-08
+#type: landing
 
 design:
   # Section spacing
