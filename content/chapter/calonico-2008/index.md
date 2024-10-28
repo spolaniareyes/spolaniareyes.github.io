@@ -24,5 +24,5 @@ links:
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 ---
