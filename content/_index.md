@@ -55,16 +55,16 @@ sections:
         - publication
       publication_type: ["2"]
     design:
-    #  background:
+      background:
     # Choose a color such as from https://html-color-codes.info
-    #   color: 'Azure'
+        color: '#EFF8FB'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    #  text_color_light: true
-      view: citation
-      spacing:
+        text_color_light: true
+        view: citation
+        spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
-        margin: ['20px', '0', '20px', '0']
+          padding: ['20px', '0', '20px', '0']
+          margin: ['20px', '0', '20px', '0']
   - block: collection
     id: chapter
     content:
@@ -99,7 +99,7 @@ sections:
     # Choose a color such as from https://html-color-codes.info
         color: '#E0F8F7' 
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-   #     text_color_light: true
+        text_color_light: true
 #  - block: markdown
  #   id: talks
   #  content:
