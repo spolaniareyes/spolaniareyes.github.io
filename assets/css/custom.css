@@ -41,6 +41,11 @@
   font-size: 40px !important; /* Increase the size of social media icons */
 }
 
+.icon {
+  margin-top: 1px;
+  color: #3498db; /* Change icon color */
+  font-size: 40px !important; /* Increase the size of social media icons */
+}
 .stats-wrapper {
   display: flex;
   flex-wrap: wrap; /* Allows items to wrap if there's not enough space */
@@ -55,7 +60,7 @@
 p {
   margin-top: 5px;
   margin-bottom: 5px; /* Reduces space between paragraphs */
-  font-size: 1.5em;
+  font-size: 1.1em;
   /*text-align: left;*/
   }
 
