@@ -56,11 +56,11 @@ p {
   margin-top: 5px;
   margin-bottom: 5px; /* Reduces space between paragraphs */
   font-size: 1.1em;
-  text-align: left;*/
+  /*text-align: left;*/
   }
 
 li {
-    font-size: 1.1em;
+    font-size: 1.15em;
   }
   
 h1, h2, h3 {
