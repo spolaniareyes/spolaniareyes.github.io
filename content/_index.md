@@ -41,14 +41,12 @@ sections:
      # align: left    
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '0', '0', '0']
-        margin: ['0', '0', '0', '0']
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
   - block: collection
     id: art
     content:
       title: Publications
-      #subtitle:
-      #text: ''
       count: 10
       filters:
        folders:
@@ -62,9 +60,8 @@ sections:
        # text_color_light: false
         view: citation
         spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-          padding: ['20px', '0', '20px', '0']
-          margin: ['20px', '0', '20px', '0']
+          padding: [0, 0, 0, 0]
+          margin: [0, 0, 0, 0]
   - block: collection
     id: chapter
     content:
@@ -81,8 +78,8 @@ sections:
       columns: 3
       view: article-grid
       spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
   - block: collection
     id: wp
     content:
@@ -95,7 +92,8 @@ sections:
       view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
       background:
     # Choose a color such as from https://html-color-codes.info
         color: '#EFF8FB' 
