@@ -11,13 +11,6 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Teaching
       text: '2021- Development Economics at UNav'
-      #filters:
-       # folders:
-        #  - project
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 2
 ---

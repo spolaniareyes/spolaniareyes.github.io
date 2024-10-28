@@ -1,7 +1,7 @@
 ---
 title: Book chapters
-#type: landing
-#cms_exclude: true
+type: landing
+cms_exclude: true
 
 # View.
 view: article-grid

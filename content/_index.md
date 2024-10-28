@@ -44,7 +44,7 @@ sections:
         padding: ['0', '0', '0', '0']
         margin: ['0', '0', '0', '0']
   - block: collection
-    id: publication
+    id: art
     content:
       title: Publications
       #subtitle:
@@ -52,8 +52,8 @@ sections:
       count: 10
     filters:
       folders:
-        - publication
-      publication_type: ["2"]
+        - art
+      #publication_type: ["2"]
     design:
       background:
     # Choose a color such as from https://html-color-codes.info
@@ -74,8 +74,8 @@ sections:
     filters:
       folders:
         - chapter
-      publication_type: ["6"]
-      exclude featured: false    
+      #publication_type: ["6"]
+      exclude featured: true   
     design:
       columns: 3
       view: article-grid
