@@ -97,7 +97,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       background:
     # Choose a color such as from https://html-color-codes.info
-        color: '#3498db' 
+        color: '#E0F8F7' 
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
    #     text_color_light: true
 #  - block: markdown
