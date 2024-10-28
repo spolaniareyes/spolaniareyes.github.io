@@ -50,9 +50,9 @@ sections:
       #subtitle:
       #text: ''
       count: 10
-    filters:
-      folders:
-        - art
+      filters:
+       folders:
+          - art
       #publication_type: ["2"]
     design:
       background:
@@ -71,9 +71,9 @@ sections:
       title: Book Chapters
       #subtitle:''
       #text: ''
-    filters:
-      folders:
-        - chapter
+      filters:
+        folders:
+          - chapter
       #publication_type: ["6"]
       exclude featured: true   
     design:
