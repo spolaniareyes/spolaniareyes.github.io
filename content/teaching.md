@@ -13,4 +13,10 @@ sections:
     content:
       title: Teaching
       text: '2021- Development Economics at UNav'
+    design:
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
 ---

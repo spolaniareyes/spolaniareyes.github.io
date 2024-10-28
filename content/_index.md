@@ -76,6 +76,7 @@ sections:
           - chapter
       #publication_type: ["6"]
       exclude featured: true   
+      order: desc
     design:
       columns: 3
       view: article-grid
