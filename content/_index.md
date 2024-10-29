@@ -38,7 +38,7 @@ sections:
      # align: left    
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["1rem", 0, "1rem", 0]
+        padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
   - block: collection
     id: art
@@ -118,7 +118,10 @@ sections:
             Fall Ethics Conference U Notre Dame, Krannert School of Management Purdue University, First Latin-American Workshop on Experimental and Behavioral Social Sciences (LAWEBESS), Colombia, Advances in Field Experiments, U Chicago, UC Berkeley, University of Los Andes, University of Massachusetts-Amherst, University of Notre Dame Economics, Pontifical Xavierian University, NYU CESS 10th Annual Experimental Political Science Conference.
     design:
       #width: 'wide' 
-      padding: ['20px', '0', '20px', '0']
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
       css_class: fullscreen
 
     #       background:
