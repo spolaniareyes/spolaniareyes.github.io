@@ -12,11 +12,11 @@ sections:
   - block: markdown
     content:
       title: 'Talks'
-      subtitle: ' **2024** 
+      subtitle: 
+      text: ' **2024** 
 
             Keynote speaker, Neuroscience, Cognition and Behavioral Economics Conference third edition, Colombia. ESA World Meeting, Bogota. Workshop in honor of Gary Charness, UNavarra and Public University of Navarra, organizer. Workshop in honor of Marie Claire Villeval, University Carlos III Madrid. ISM, Lithuania.
             '
-      text: 
     design:
       #width: 'wide' 
       spacing:
@@ -25,9 +25,7 @@ sections:
         margin: [0, 0, 0, 0]
       css_class: fullscreen
 ---
-
-           
-            **2023**	
+**2023**	
 
             19th General Meeting of the European Association of Social Psychology, Poland. Latin American and the Caribbean Economic Association (LACEA) Annual Meeting, Colombia.
             
