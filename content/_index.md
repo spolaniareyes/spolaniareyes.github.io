@@ -18,6 +18,7 @@ sections:
       button:
         text: Download CV
         url: uploads/Polania_CV.pdf
+        font-size: 16px
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -53,11 +54,11 @@ sections:
     design:
       background:
     # Choose a color such as from https://html-color-codes.info
-        color: '#EFF8FB'
+       # color: '#EFF8FB'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
        # text_color_light: false
-        view: citation
-        spacing:
+      view: citation
+      spacing:
           padding: [0, 0, 0, 0]
           margin: [0, 0, 0, 0]
   - block: collection
@@ -94,7 +95,7 @@ sections:
         margin: [0, 0, 0, 0]
       background:
     # Choose a color such as from https://html-color-codes.info
-        color: '#EFF8FB' 
+       # color: '#EFF8FB' 
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
        # text_color_light: false
 #  - block: markdown

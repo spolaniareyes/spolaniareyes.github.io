@@ -36,10 +36,7 @@
   margin-bottom: 1px; 
 }
 
-.btn {
-  font-size: 25px; /* Adjust this size as needed */
-  padding: 10px 20px; /* Adjust padding if needed to fit the new font size */
-}
+
 .network-icon {
   margin-top: 1px;
   color: #3498db; /* Change icon color */
