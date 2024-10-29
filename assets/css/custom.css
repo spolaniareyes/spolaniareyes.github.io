@@ -36,7 +36,7 @@
   margin-bottom: 1px; 
 }
 
-.button {
+.btn {
   font-size: 25px; /* Adjust this size as needed */
   padding: 10px 20px; /* Adjust padding if needed to fit the new font size */
 }
@@ -65,17 +65,20 @@
 p {
   margin-top: 5px;
   margin-bottom: 5px; /* Reduces space between paragraphs */
-  font-size: 1.1em;
+  font-size: 1em;
+  line-height: 1;
   /*text-align: left;*/
   }
 
 li {
-    font-size: 1.1em;
+    font-size: 1em;
   }
   
-h1, h2, h3 {
+h1, h2, h3, h4, h5 {
   margin-bottom: 5px; /* Reduces space below headings */
   margin-top: 5px;
+  padding-top: 0%;
+  padding-bottom: 0%;
 }
 
 /*h1 { /* Or replace h1 with the correct tag */
