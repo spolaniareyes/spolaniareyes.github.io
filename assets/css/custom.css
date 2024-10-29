@@ -6,7 +6,7 @@
   object-fit: cover; /* Ensures the image covers the container without stretching */
   width: 4900px !important;
   height: 4900px !important;
-  border-radius: 30%;
+  border-radius: 10%;
 }
 .section{
   margin-bottom: 1px; /* Adjust the value to reduce vertical spacing */
@@ -22,7 +22,7 @@
 .portrait-title {
   margin-top: 38px; /* Adds space above the title */
   text-align: center; /* Centers the title */
-  font-size: 20px; /* Adjusts the font size */
+  font-size: 18px; /* Adjusts the font size */
   margin-bottom: 1px; 
 }
 
@@ -52,7 +52,7 @@ p {
   margin-top: 5px;
   margin-bottom: 5px; /* Reduces space between paragraphs */
   /*font-size: 1em;*/
-  line-height: 1.2;
+  line-height: 1.4
   /*text-align: left;*/
   }
 
