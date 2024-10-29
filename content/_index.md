@@ -91,7 +91,7 @@ sections:
       text: |
             **2024** 
 
-            ESA World Meeting, Bogota. Workshop in honor of Gary Charness, UNavarra and Public University of Navarra, organizer. Invited speaker; Workshop in honor of Marie Claire Villeval, University Carlos II. Keynote speaker, Neuroscience, Cognition and Behavioral Economics Conference III edition, UN Development program.
+            ESA World Meeting, Bogota. Workshop in honor of Gary Charness, UNavarra and Public University of Navarra, organizer. Invited speaker; Workshop in honor of Marie Claire Villeval, University Carlos III. Keynote speaker, Neuroscience, Cognition and Behavioral Economics Conference III edition, UNDP.
             
             **2023**	
 

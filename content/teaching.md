@@ -31,7 +31,9 @@ sections:
         | Spring - Fall 2005, Spring - Fall 2006 | Introduction to Microeconomics |
         | Spring - Fall 2005, Spring - Fall 2006 | Intermediate Microeconomics |
         | Fall 2004 | Graduate Experimental Economics |'
-
+    design:
+      columns: '1'
+      width: 'wide'
 ---
 
 
