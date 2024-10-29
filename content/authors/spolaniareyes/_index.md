@@ -32,33 +32,32 @@ profiles:
   - icon: at-symbol
     url: 'mailto:spolania@unav.es'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/spolania
-  - icon: brands/instagram
-    url: https://www.instagram.com/spolaniareyes/
-  - icon: brands/github
-    url: https://github.com/spolaniareyes
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/sandra-polan%C3%ADa-reyes-6b506a15/
+  #- icon: brands/x
+  #  url: https://x.com/spolania
+ # - icon: brands/instagram
+  #  url: https://www.instagram.com/spolaniareyes/
+ # - icon: brands/github
+  #  url: https://github.com/spolaniareyes
+ # - icon: brands/linkedin
+ #   url: https://www.linkedin.com/in/sandra-polan%C3%ADa-reyes-6b506a15/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=awBKQFEAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6451-1254
-  - icon: academicons/cv
-    url: uploads/Polania_CV.pdf
+#  - icon: academicons/cv
+ #   url: uploads/Polania_CV.pdf
 
 education:
   - area: PhD Economics 
-    institution: UCL
-    year: '2015'
-    date_start: 2009-10-01
-    date_end: 2015-08-31
+    institution: University College London, UK
+    year: 2015
   - area: PhD Economics
-    institution: University of Siena
-    year: '2015'
-    date_start: 2007-10-01
-    date_end: 2015-08-31
-
+    institution: University of Siena, Italy
+    year: 2015
+  - area: MSc, BSc Economics
+    institution: Universidad de los Andes, Colombia
+    year: '2005,2003'
+   
 interests:
   - Behavioral/Experimental Econ
   - Development Econ

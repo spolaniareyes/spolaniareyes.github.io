@@ -45,7 +45,7 @@ build:
   writeStats: true
 imaging:
   resampleFilter: lanczos
-  quality: 80
+  quality: 95
   anchor: smart
 timeout: 600000
 taxonomies:
