@@ -4,9 +4,9 @@
 }
 .avatar {
   object-fit: cover; /* Ensures the image covers the container without stretching */
-  width: 4900px !important;
-  height: 4900px !important;
-  border-radius: 10%;
+  width: 5000px !important;
+  height: 5000px !important;
+  border-radius: 50%;
 }
 .section{
   margin-bottom: 1px; /* Adjust the value to reduce vertical spacing */
