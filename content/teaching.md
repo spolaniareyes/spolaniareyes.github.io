@@ -26,7 +26,7 @@ sections:
               | Spring 2011, 2012 | Experimental Economics |
               | Winter 2011 | Microeconomics |
               |  |  |
-              | Department of Economics, University of Los Andes, Bogotá, Colombia. | Graduate Student Instructor |
+              | Department of Economics, University of Los Andes, Bogotá, COL. | Graduate Student Instructor |
               | Spring - Fall 2005, Spring - Fall 2006 | Introduction to Microeconomics |
               | Spring - Fall 2005, Spring - Fall 2006 | Intermediate Microeconomics |
               | Fall 2004 | Graduate Experimental Economics |      '

@@ -17,7 +17,7 @@ main:
     url: teaching/
     weight: 50
   - name: Talks 
-    url: /#talks
+    url: talks/
     weight: 70
   - name: CV 
     url: /uploads/Polania_CV.pdf

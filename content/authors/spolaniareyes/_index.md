@@ -52,11 +52,11 @@ education:
     institution: University College London, UK
     year: 2015
   - area: PhD Economics
-    institution: University of Siena, Italy
+    institution: University of Siena, IT
     year: 2015
   - area: MSc, BSc Economics
-    institution: Universidad de los Andes, Colombia
-    year: '2005,2003'
+    institution: Universidad de los Andes, COL
+    year: '2005 2003'
    
 interests:
   - Behavioral/Experimental Econ
