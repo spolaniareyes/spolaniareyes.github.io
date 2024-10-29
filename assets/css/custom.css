@@ -28,7 +28,7 @@
 .network-icon {
   margin-top: 1px;
   color: #3498db; /* Change icon color */
-  font-size: 40px !important; /* Increase the size of social media icons */
+  font-size:large !important; /* Increase the size of social media icons */
 }
 
 .icon {
@@ -43,7 +43,7 @@
 }
 
 .stat-label {
-  font-size: 5em; /* Adjust this value to increase or decrease font size */
+  font-size: medium; /* Adjust this value to increase or decrease font size */
   font-weight: 100;  /* Optional: Makes the label bold */
 }
 
@@ -51,7 +51,7 @@ p {
   margin-top: 5px;
   margin-bottom: 5px; /* Reduces space between paragraphs */
   /*font-size: 1em;*/
-  line-height: 1.4
+  line-height: 1.5
   /*text-align: left;*/
   }
 
@@ -75,7 +75,9 @@ h1, h2, h3, h4, h5 {
   padding-bottom: 0%;
   color:#3498db;
 }
-
+.section p{
+  font-size: medium;
+}
 /*h1 { /* Or replace h1 with the correct tag */
  /* font-size: 24px; /* Set the desired font size */
 /*}

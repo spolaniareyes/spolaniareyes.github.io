@@ -53,7 +53,7 @@ education:
     year: '2015'
     date_start: 2009-10-01
     date_end: 2015-08-31
-  - area: PhD Economia Politica
+  - area: PhD Economics
     institution: University of Siena
     year: '2015'
     date_start: 2007-10-01
