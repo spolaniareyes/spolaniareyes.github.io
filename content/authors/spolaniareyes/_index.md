@@ -70,6 +70,6 @@ interests:
 
 I am an Associate Professor of Economics at University of Navarra in Spain. My work is in the fields of Behavioral, Development and Experimental Economics, with a focus on prosocial behavior and behavioral policy interventions. 
 
-I serve as an Associate Editor for <a href="https://www.frontiersin.org/journals/behavioral-economics" >Frontiers in Behavioral Economics</a> - Culture and Ethics and part of the <a href="https://www.iadb.org/en/research-and-data/behavioral-lacea-brain">LACEA BRAIN</a> (Behavioral Insights Network) Academic Committee since its launch in 2018.
+I serve as an Associate Editor for <a href="https://www.frontiersin.org/journals/behavioral-economics" >Frontiers in Behavioral Economics</a> - Culture and Ethics and part of the <a href="https://behavioral.iadb.org/en/lacea-brain">LACEA BRAIN</a> (Behavioral Insights Network) Academic Committee since its launch in 2018.
 
 I am passionate about how motivating and multiplying prosociality. I advocate for the use of mixed methods and reproducible, interdisciplinary research. With 20 years of experience, I have conducted large-scale laboratory economic experiments in the field to study the role of prosocial behavior in overcoming collective action problems and promoting the common good.
