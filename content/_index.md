@@ -4,16 +4,14 @@ title: ""
 #date: 2022-10-24
 type: landing
 
-design:
-  # Default section spacing
+design:   # Default section spacing
   spacing: '1rem'
 
 sections:
   - block: resume-biography-3
-    id: section1
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: spolaniareyes
+    #id: section1
+    content: 
+      username: spolaniareyes # Choose a user profile to display (a folder name within `content/authors/`)
       avatar: true
       #text: ""
       # Show a call-to-action button under your biography? (optional)
@@ -51,7 +49,7 @@ sections:
       filters:
        folders:
           - art
-      #publication_type: ["2"]
+       publication_type: ["2"]
     design:
       background:
     # Choose a color such as from https://html-color-codes.info
