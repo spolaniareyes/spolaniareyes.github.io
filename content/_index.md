@@ -114,10 +114,12 @@ sections:
             Central Bank of Colombia (Bogota), Bogota Experimental Economics Conference (Universidad del Rosario), Central Bank of Colombia (Medellin), McGrath Institute for Church Life, Kellogg Institute for International Studies, National Planning Department (DNP-COL)
 
             **2017**	
-            
+
             Fall Ethics Conference University of Notre Dame, Krannert School of Management Purdue University, First Latin-American Workshop on Experimental and Behavioral Social Sciences (LAWEBESS), Advances in Field Experiments (UChicago), UC Berkeley, University of Los Andes, University of Massachusetts-Amherst, University of Notre Dame Economics, Pontifical Xavierian University, NYU CESS 10th Annual Experimental Political Science Conference.
-    #    design:
-     # columns: '2'
+    design:
+     columns: '1'
+     width: 'wide' 
+
     #       background:
     # Choose a color such as from https://html-color-codes.info
        # color: '#EFF8FB'

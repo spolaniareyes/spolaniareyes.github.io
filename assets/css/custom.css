@@ -5,6 +5,7 @@
 .avatar {
   object-fit: cover; /* Ensures the image covers the container without stretching */
   width: 5000px !important;
+  width: auto;
   height: 5000px !important;
   border-radius: 50%;
 }
@@ -88,7 +89,7 @@ h1, h2, h3, h4, h5 {
   margin-bottom: 5px; /* reduce the top margin if necessary */
   }
 
-  .talks-block .talks-text {
-    font-size: 18px; /* Adjust font size as needed */
-    line-height: 1.3; /* Optional: adjust line-height for readability */
+.talks-block .talks-text {
+  font-size: 18px; /* Adjust font size as needed */
+  line-height: 1.3; /* Optional: adjust line-height for readability */
 }
