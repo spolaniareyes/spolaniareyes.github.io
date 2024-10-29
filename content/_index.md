@@ -5,13 +5,11 @@ title: ""
 type: landing
 
 design:   # Default section spacing
-  spacing: '1rem'
-
+  #spacing: '1rem'
 sections:
   - block: resume-biography-3
-    #id: section1
     content: 
-      username: spolaniareyes # Choose a user profile to display (a folder name within `content/authors/`)
+      username: spolaniareyes
       avatar: true
       #text: ""
       # Show a call-to-action button under your biography? (optional)
@@ -48,9 +46,9 @@ sections:
       title: Publications
       count: 10
       filters:
-       folders:
+        folders:
           - art
-       publication_type: ["2"]
+        publication_type: ["2"]
     design:
       background:
     # Choose a color such as from https://html-color-codes.info
