@@ -76,3 +76,8 @@ h1, h2, h3, h4, h5 {
   margin-top: 5px; /* reduce the top margin if necessary */
   margin-bottom: 5px; /* reduce the top margin if necessary */
   }
+
+  .talks-block .talks-text {
+    font-size: 18px; /* Adjust font size as needed */
+    line-height: 1.3; /* Optional: adjust line-height for readability */
+}
