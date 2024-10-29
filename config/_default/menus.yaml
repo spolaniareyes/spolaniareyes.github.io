@@ -20,9 +20,7 @@ main:
     url: talks/
     weight: 70
   - name: CV 
-    url: /uploads/Polania_CV.pdf
+    url: uploads/Polania_CV.pdf
     weight: 90
     
-    
-    
-    
+  

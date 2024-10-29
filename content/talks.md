@@ -1,7 +1,7 @@
 ---
 title: 'Talks'
 #date: 2023-01-08
-#type: landing
+type: landing
 
 design:
   # Section spacing
@@ -12,12 +12,21 @@ sections:
   - block: markdown
     content:
       title: 'Talks'
-      subtitle: ''
-      text: |
-            **2024** 
+      subtitle: ' **2024** 
 
             Keynote speaker, Neuroscience, Cognition and Behavioral Economics Conference third edition, Colombia. ESA World Meeting, Bogota. Workshop in honor of Gary Charness, UNavarra and Public University of Navarra, organizer. Workshop in honor of Marie Claire Villeval, University Carlos III Madrid. ISM, Lithuania.
-            
+            '
+      text: 
+    design:
+      #width: 'wide' 
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+      css_class: fullscreen
+---
+
+           
             **2023**	
 
             19th General Meeting of the European Association of Social Psychology, Poland. Latin American and the Caribbean Economic Association (LACEA) Annual Meeting, Colombia.
@@ -41,12 +50,3 @@ sections:
             **2017** 
 
             Fall Ethics Conference U Notre Dame, Krannert School of Management Purdue University, First Latin-American Workshop on Experimental and Behavioral Social Sciences (LAWEBESS), Colombia, Advances in Field Experiments, U Chicago, UC Berkeley, University of Los Andes, University of Massachusetts-Amherst, University of Notre Dame Economics, Pontifical Xavierian University, NYU CESS 10th Annual Experimental Political Science Conference.
-    design:
-      #width: 'wide' 
-      spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-      css_class: fullscreen
----
-

@@ -1,7 +1,7 @@
 ---
 title: 'Teaching'
 #date: 2023-01-08
-#type: landing
+type: landing
 
 design:
   # Section spacing
@@ -12,7 +12,8 @@ sections:
   - block: markdown
     content:
       title: Teaching
-      text: '| Spring 2025  | Current Economic Challenges. U Navarra. |
+      text: |
+            | Spring 2025  | Current Economic Challenges. U Navarra. |
              | Spring 2022, 24, 25  | Development Economics. U Navarra. |
               |  | African Economic Development. U Navarra. |
               |  | Latin American Economic Development. U Navarra |
@@ -29,7 +30,7 @@ sections:
               | Department of Economics, University of Los Andes, Bogotá, COL. | Graduate Student Instructor |
               | Spring - Fall 2005, Spring - Fall 2006 | Introduction to Microeconomics |
               | Spring - Fall 2005, Spring - Fall 2006 | Intermediate Microeconomics |
-              | Fall 2004 | Graduate Experimental Economics |      '
+              | Fall 2004 | Graduate Experimental Economics |     
     design:
       css_class: fullscreen
 ---

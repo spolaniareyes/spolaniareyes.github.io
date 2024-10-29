@@ -32,14 +32,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:spolania@unav.es'
     label: E-mail Me
-  #- icon: brands/x
-  #  url: https://x.com/spolania
- # - icon: brands/instagram
-  #  url: https://www.instagram.com/spolaniareyes/
- # - icon: brands/github
-  #  url: https://github.com/spolaniareyes
- # - icon: brands/linkedin
- #   url: https://www.linkedin.com/in/sandra-polan%C3%ADa-reyes-6b506a15/
+  - icon: brands/x
+    url: https://x.com/spolania
+  - icon: brands/instagram
+    url: https://www.instagram.com/spolaniareyes/
+  - icon: brands/github
+    url: https://github.com/spolaniareyes
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/sandra-polan%C3%ADa-reyes-6b506a15/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=awBKQFEAAAAJ&hl=en
   - icon: academicons/orcid
