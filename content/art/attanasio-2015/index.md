@@ -1,13 +1,13 @@
 ---
 title: 'Building social capital: Conditional cash transfers and cooperation'
-categories: [publication]
-tags: [publication]
+#categories: [publication]
+#tags: [publication]
 authors:
 - Orazio Attanasio
 - Sandra Polania-Reyes
 - Luca Pellerano
 date: '2015-01-01'
-publishDate: '2024-10-23T12:32:28.833997Z'
+#publishDate: '2024-10-23T12:32:28.833997Z'
 publication_types: ["2"]
 publication: '*Journal of Economic Behavior & Organization*'
 doi: https://doi.org/10.1016/j.jebo.2015.04.004
