@@ -10,9 +10,6 @@ main:
   - name: Publications
     url: /#art
     weight: 20
-  - name: Book Chapters
-    url: /#chapter
-    weight: 25    
   - name: Working Papers
     url: /#wp
     weight: 30
@@ -22,10 +19,7 @@ main:
   - name: Teaching
     url: teaching/
     weight: 50
-  - name: Talks
-    url: talks/
-    weight: 60
-  #- name: Motivation
+#- name: Motivation
    # url: /#motiv
     #weight: 70
     
