@@ -18,17 +18,7 @@
   margin-bottom: 10px; /* Adds space between the avatar and title */
   justify-content: center; 
 }
-.image-wrapper {
-  text-align: center; /* Centers the image */
-  margin-bottom: 5px; /* Adds space between the image and the title */
-  border-radius: 0px;
-  margin-top: 5px;
-}
-.custom-image {
-  width: 25px; /* Adjust the size */
-  height: auto; /* Maintain aspect ratio */
-  border-radius: 0px; /* Optional: Add rounded corners */
-}
+
 .portrait-title {
   margin-top: 38px; /* Adds space above the title */
   text-align: center; /* Centers the title */
