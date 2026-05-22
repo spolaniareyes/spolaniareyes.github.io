@@ -14,10 +14,6 @@ sections:
       #text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/Polania_CV.pdf
-        font-size: 25px
-    button:
         text: España+ECD
         url: uploads/PolaniaECD.pdf
         font-size: 25px
