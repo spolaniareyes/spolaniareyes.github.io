@@ -17,6 +17,10 @@ sections:
         text: Download CV
         url: uploads/Polania_CV.pdf
         font-size: 25px
+    button:
+        text: España+ECD
+        url: uploads/PolaniaECD.pdf
+        font-size: 25px
     design:
       spacing:
         padding: [0, 0, 0, 0]
